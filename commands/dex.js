@@ -7,11 +7,11 @@ const Discord = require('discord.js')
 
 
 const emojis = [{
-    type: 'Rock', emoji: '🪨'}, 
+    type: 'Rock', emoji: '⬛'}, 
     {type:'Psychic', emoji: '🔮'},
     {type:'Poison', emoji: '☠️'},
     {type:'Normal', emoji: '⚪'},
-    {type:'Ice', emoji: '🧊'},
+    {type:'Ice', emoji: '❄'},
     {type:'Ground', emoji: '⛰️'},
     {type:'Grass', emoji: '🌿'},
     {type:'Ghost', emoji: '👻'},
